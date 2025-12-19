@@ -10,7 +10,7 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 - ♿ Championing accessibility in everything I create
 - 🌍 Using tech to help underserved communities
 - 📚 Mentoring engineers and leading technical teams
-- 🐱 Attempting to herd foster kittens while running [Purrfect Paths Rescue](https://purrfectpathsrescue.com)
+- 🐱 Attempting to herd foster kittens while running [Purrfect Paths Rescue](https://purrfectpaths.com)
 
 ## 🛠️ Tech Stack
 
