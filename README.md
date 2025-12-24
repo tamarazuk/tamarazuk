@@ -14,22 +14,31 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, PHP, Python, GraphQL  
-**Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright  
-**Tools:** Git, Docker, CI/CD, Vite
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS
+**Backend:** Node.js, PHP, Python, GraphQL
+**Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
+**Tools:** Git, Docker, CI/CD, Vite, Turborepo
 
 ## 🌟 Currently
 
 - 🔍 Seeking Senior Frontend or Full-Stack Engineer roles at mission-driven organizations
-- 💜 Volunteering with [Haven](https://findhaven.org) to support refugees in Canada
+- 🐾 Building [PurrKit](https://github.com/tamarazuk/purrkit) - open-source toolkit for cat rescues
 - 🏗️ Rebuilding my portfolio and exploring new tech
+
+
+## 🎯 Featured Project
+
+### [PurrKit](https://github.com/tamarazuk/purrkit) - Cat Rescue Toolkit
+An open-source platform helping small cat rescues create professional websites and manage their operations without technical expertise. The MVP features a website generator and headless CMS with more rescue-specific tools coming in future iterations.
+
+**Tech:** Next.js, TypeScript, Express, Payload CMS, Turborepo
+**Status:** MVP in active development (Jan 2026)
 
 ## 📫 Let's Connect
 
-**Portfolio:** [tamarazuk.dev](https://tamarazuk.dev)  
+**Portfolio:** [tamarazuk.dev](https://tamarazuk.dev)
 **LinkedIn:** [linkedin.com/in/tamarazuk](https://linkedin.com/in/tamarazuk)
 
 ---
 
-*Former refugee. Single mom. Cat wrangler. Engineer. Using code to make the world a little better.* 💜
+*Single mom. Cat wrangler. Engineer. Using code to make the world a little better.* 💜
