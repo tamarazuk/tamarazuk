@@ -28,22 +28,33 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 
 ## 🎯 Featured Projects
 
-### [TidyResume](https://github.com/tamarazuk/tidyresume) - Markdown Resume Builder
-A markdown-based resume builder with live preview, PDF export, and shareable links. Local-first storage means your data stays yours—no account required.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS, Zustand
-**Status:** v1 live with publishing
-
-### [PurrKit](https://github.com/tamarazuk/purrkit) - Cat Rescue Toolkit
-An open-source platform helping small cat rescues create professional websites and manage their operations without technical expertise. The MVP features a website generator and headless CMS with more rescue-specific tools coming in future iterations.
-
-**Tech:** Next.js, TypeScript, Express, Payload CMS, Turborepo
-**Status:** MVP in active development (Jan 2026)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><img src="https://tidyresume.tzuk.app/logo-icon.svg" alt="TidyResume" width="32" align="top" />&nbsp;&nbsp; <a href="https://github.com/tamarazuk/tidyresume">TidyResume</a></h3>
+      <p>Markdown-based resume builder with live preview, PDF export, and shareable links. Local-first storage—no account required.</p>
+      <p><strong>Tech:</strong> Next.js, TypeScript, Tailwind CSS, Zustand</p>
+      <p><strong>Status:</strong> Initial MVP with resume publishing</p>
+      <br>
+    </td>
+    <td width="50%" valign="top">
+      <h3><img src="https://cmstest.purrkit.tzuk.app/purrkit-icon.png" alt="PurrKit" width="32" align="top" />&nbsp; <a href="https://github.com/tamarazuk/purrkit">PurrKit</a></h3>
+      <p>Open-source platform helping cat rescues build websites and manage operations without technical expertise.</p>
+      <p><strong>Tech:</strong> Next.js, TypeScript, Express, Payload CMS</p>
+      <p><strong>Status:</strong> MVP in active development (Jan 2026)</p>
+      <br>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Let's Connect
 
 - **Portfolio:** [tamarazuk.dev](https://tamarazuk.dev)
 - **LinkedIn:** [linkedin.com/in/tamarazuk](https://linkedin.com/in/tamarazuk)
+
+## 💜 Support My Work
+
+If my projects are useful to you, consider [sponsoring me on GitHub](https://github.com/sponsors/tamarazuk) or [buying me a coffee](https://buymeacoffee.com/tamarazuk). It helps me keep building free, open-source tools!
 
 ---
 
