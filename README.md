@@ -31,14 +31,14 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://tidyresume.tzuk.app/logo-icon.svg" alt="TidyResume" width="32" align="top" />&nbsp;&nbsp; <a href="https://github.com/tamarazuk/tidyresume">TidyResume</a></h3>
+      <h3><img src="https://tidyresume.tzuk.app/logo-icon.svg" alt="TidyResume" width="24" align="top" />&nbsp;&nbsp;<a href="https://github.com/tamarazuk/tidyresume">TidyResume</a></h3>
       <p>Markdown-based resume builder with live preview, PDF export, and shareable links. Local-first storage—no account required.</p>
       <p><strong>Tech:</strong> Next.js, TypeScript, Tailwind CSS, Zustand</p>
       <p><strong>Status:</strong> Initial MVP with resume publishing</p>
       <br>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://cmstest.purrkit.tzuk.app/purrkit-icon.png" alt="PurrKit" width="32" align="top" />&nbsp; <a href="https://github.com/tamarazuk/purrkit">PurrKit</a></h3>
+      <h3><img src="https://cmstest.purrkit.tzuk.app/purrkit-icon.png" alt="PurrKit" width="26" align="top" />&nbsp;&nbsp;<a href="https://github.com/tamarazuk/purrkit">PurrKit</a></h3>
       <p>Open-source platform helping cat rescues build websites and manage operations without technical expertise.</p>
       <p><strong>Tech:</strong> Next.js, TypeScript, Express, Payload CMS</p>
       <p><strong>Status:</strong> MVP in active development (Jan 2026)</p>
