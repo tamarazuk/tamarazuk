@@ -14,19 +14,25 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS
-**Backend:** Node.js, PHP, Python, GraphQL
-**Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
-**Tools:** Git, Docker, CI/CD, Vite, Turborepo
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, PHP, Python, GraphQL
+- **Testing:** Jest, Vitest, React Testing Library, Cypress, Playwright
+- **Tools:** Git, Docker, CI/CD, Vite, Turborepo
 
 ## 🌟 Currently
 
 - 🔍 Seeking Senior Frontend or Full-Stack Engineer roles at mission-driven organizations
+- 📄 Shipped [TidyResume](https://github.com/tamarazuk/tidyresume) - markdown resume builder with optional publishing
 - 🐾 Building [PurrKit](https://github.com/tamarazuk/purrkit) - open-source toolkit for cat rescues
-- 🏗️ Rebuilding my portfolio and exploring new tech
+- ✨ Exploring AI-assisted tooling and local-first architecture
 
+## 🎯 Featured Projects
 
-## 🎯 Featured Project
+### [TidyResume](https://github.com/tamarazuk/tidyresume) - Markdown Resume Builder
+A markdown-based resume builder with live preview, PDF export, and shareable links. Local-first storage means your data stays yours—no account required.
+
+**Tech:** Next.js, TypeScript, Tailwind CSS, Zustand
+**Status:** v1 live with publishing
 
 ### [PurrKit](https://github.com/tamarazuk/purrkit) - Cat Rescue Toolkit
 An open-source platform helping small cat rescues create professional websites and manage their operations without technical expertise. The MVP features a website generator and headless CMS with more rescue-specific tools coming in future iterations.
