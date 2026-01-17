@@ -23,7 +23,7 @@ I'm a full-stack engineer with 15+ years of experience building scalable web app
 
 - 🔍 Seeking Senior Frontend or Full-Stack Engineer roles at mission-driven organizations
 - 📄 Shipped [TidyResume](https://github.com/tamarazuk/tidyresume) - markdown resume builder with optional publishing
-- 🐾 Building [PurrKit](https://github.com/tamarazuk/purrkit) - open-source toolkit for cat rescues
+- 🐱 Building [PurrKit](https://github.com/tamarazuk/purrkit) - open-source toolkit for cat rescues
 - ✨ Exploring AI-assisted tooling and local-first architecture
 
 ## 🎯 Featured Projects
@@ -42,8 +42,8 @@ An open-source platform helping small cat rescues create professional websites a
 
 ## 📫 Let's Connect
 
-**Portfolio:** [tamarazuk.dev](https://tamarazuk.dev)
-**LinkedIn:** [linkedin.com/in/tamarazuk](https://linkedin.com/in/tamarazuk)
+- **Portfolio:** [tamarazuk.dev](https://tamarazuk.dev)
+- **LinkedIn:** [linkedin.com/in/tamarazuk](https://linkedin.com/in/tamarazuk)
 
 ---
 
